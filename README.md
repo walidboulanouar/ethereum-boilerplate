@@ -1,6 +1,8 @@
-# `ethereum-boilerplate`
+# `ethereum-boilerplate` 
+
 
 > React components and hooks for fast building dApps without running own backend
+i will use this template in my next projects
 
 🚀DEMO: https://ethereum-boilerplate.github.io/ethereum-boilerplate
 
